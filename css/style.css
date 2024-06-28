@@ -692,10 +692,3 @@ h6,
     margin-top: 40px;
     margin-left: 500px;
 }
-
-@media(max-width: 995px){
-    *{
-        font-size: 80%;
-        
-    }
-}
